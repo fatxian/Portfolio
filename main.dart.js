@@ -64544,7 +64544,7 @@ A.G7.prototype={
 N(a){return new A.vt(B.JB,new A.a13(),"Portfolio - Sih Xian Li",$.ary(),!1,null)}}
 A.a13.prototype={
 $2(a,b){var s
-for(s=0;s<13;++s)A.aCO(new A.ox($.as5[s],null,null),a)
+for(s=0;s<14;++s)A.aCO(new A.ox($.as5[s],null,null),a)
 return b==null?B.eX:b},
 $S:71}
 A.we.prototype={
@@ -72898,7 +72898,7 @@ $.awq=A.a([35,30,20,25,30,35,30,25,25],t.n)
 $.hb=function(){var s=t.n
 return A.a([A.a([0.41233895,0.35762064,0.18051042],s),A.a([0.2126,0.7152,0.0722],s),A.a([0.01932141,0.11916382,0.95034478],s)],t.zg)}()
 $.oU=A.a([95.047,100,108.883],t.n)
-$.as5=A.a(["assets/gifs/dungeon-1.gif","assets/gifs/dungeon-2.gif","assets/gifs/dungeon-3.gif","assets/gifs/dungeon-4.gif","assets/gifs/dungeon-5.gif","assets/gifs/dungeon-6.gif","assets/gifs/dungeon-7.gif","assets/gifs/undead-shooter-1.gif","assets/gifs/undead-shooter-2.gif","assets/gifs/undead-shooter-3.gif","assets/gifs/undead-shooter-4.gif","assets/gifs/undead-shooter-5.gif","assets/gifs/undead-shooter-6.gif"],t.s)
+$.as5=A.a(["assets/gifs/dungeon-1.gif","assets/images/news-preview.png","assets/gifs/undead-shooter-1.gif","assets/gifs/dungeon-2.gif","assets/gifs/dungeon-3.gif","assets/gifs/dungeon-4.gif","assets/gifs/dungeon-5.gif","assets/gifs/dungeon-6.gif","assets/gifs/dungeon-7.gif","assets/gifs/undead-shooter-2.gif","assets/gifs/undead-shooter-3.gif","assets/gifs/undead-shooter-4.gif","assets/gifs/undead-shooter-5.gif","assets/gifs/undead-shooter-6.gif"],t.s)
 $.auB=A.v(t.S,A.X("aDZ"))
 $.aAq=A.v(A.X("oH"),A.X("D8<~>"))
 $.acT=null
